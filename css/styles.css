@@ -18,6 +18,9 @@ h1:hover{
 h3 {
     color: #126e82;
 }
+img{
+    border-radius=100;
+}
 img:hover {
     width: 200px;
     transition: width 2s;
